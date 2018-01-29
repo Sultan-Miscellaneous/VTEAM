@@ -1,0 +1,4 @@
+(
+ (nil name "1" fundName "" freqVar "1/(per_b-0)" freq "500K" signal "Moderate" srcId "V10" maxHarms "3" freqIndex "freq")
+ (nil name "2" fundName "" freqVar "1/(per_a-0)" freq "1M" signal "Moderate" srcId "V6" maxHarms "3" freqIndex "freq")
+)
